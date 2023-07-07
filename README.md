@@ -1,4 +1,4 @@
-# CG-Net
+# A Compound Gaussian Least Squares Algorithm and Unrolled Network for Linear Inverse Problems
 All rights to this code are reserved. Commercial and research licenses are available on request. Please contact aly.hoeher@colostate.edu with any requests for licenses.
 
 An implementation of CG-LS and CG-Net from 
