@@ -4,7 +4,7 @@
 # Contains:
 # * Deep neural network implementation of Compound Gaussian Network (CG-Net) form by applying algorithm unrolling to the Compound Gaussian Least Squares (CG-LS) iterative algorithm. Estimates signal representation coefficients from linear measurements.
 # * For more information reference:
-#     1. Lyons C., Raj R. G., and Cheney M. (2023). "A Compound Gaussian Iterative Algorithm and Unrolled Network for Linear Inverse Problems," In-Review.
+#     1. Lyons, C., Raj, R. G., & Cheney, M. (2023). "A Compound Gaussian Network for Solving Linear Inverse Problems". arXiv preprint arXiv:2305.11120.
 #     2. Lyons C., Raj R. G., and Cheney M. (2022). "CG-Net: A Compound Gaussian Prior Based Unrolled Imaging Network," in *2022 IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference*, pp. 623-629.
 
 # Data requirements:
